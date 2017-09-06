@@ -1,0 +1,2 @@
+# Ethereum-Password-Not-Correct-
+I've thought my ETH was all good until I tried to send some back to the exchange. When I tried sending back it said my password was not correct, this was the password I wrote down when I set it up. I've read sometime back about people having this same issue, is there a connection between this issue and UBIQ? Just trying to get some ideas how to troubleshoot this issue.
